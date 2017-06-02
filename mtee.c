@@ -47,7 +47,7 @@ int main(int argc, char **argv) {
                         return(0);
 
                 case 'a':
-			opt_filemode="a+";
+			opt_filemode="a";
 			break;
 
                 default:
